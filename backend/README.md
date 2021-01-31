@@ -1,6 +1,5 @@
 # Coffee Shop Backend
 
-## Getting Started
 
 ### Installing Dependencies
 
