@@ -19,6 +19,5 @@ The `./backend` directory contains a completed Flask server with a SQLAlchemy mo
 
 ### Frontend
 
-The `./frontend` directory contains a complete Ionic frontend to consume the data from the Flask server. You will only need to update the environment variables found within (./frontend/src/environment/environment.ts) to reflect the Auth0 configuration details set up for the backend app. 
-
+The `./frontend` directory contains a complete Ionic frontend to consume the data from the Flask server.
 [View the README.md within ./frontend for more details.](./frontend/README.md)
